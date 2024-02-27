@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Mathai</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Code Labs](https://github.com/Alexmathai2001/E-rental-website)
+- 🔭 I’m currently working on [Code Labs](https://github.com/Alexmathai2001/codelabs)
 
 - 🌱 I’m currently learning **React**
 

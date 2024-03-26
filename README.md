@@ -3,7 +3,7 @@
 
 - 🌱 Enjoy to do programming and sharing knowledge 🚀
 
-- 💬 Ask me about **Full Stack Web Development, Python, DBMS, MySQL**
+- 💬 Ask me about **Full Stack Web Development, Python, DBMS, Mongodb , TailwindCSS**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="#" target="_blank">Portfolio</a>**
 
@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://linkedin.com/in/muhammed-rafeeq-259804255/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:muhammedrafeeqvr805@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/muhammedrafeeqvr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/codebytesupport"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alex-mathai/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alexmathai07@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/a1exmathai"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/a1exmathai"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
@@ -67,5 +67,5 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrafeeq805&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexmathai2001&theme=dark" alt="jigar-sable" /></p>
   </div>

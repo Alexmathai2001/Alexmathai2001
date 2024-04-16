@@ -61,7 +61,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mrafeeq805&show_icons=true&theme=dark&locale=en" alt="rafeeq" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=alexmathai2001&show_icons=true&theme=dark&locale=en" alt="rafeeq" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmathai2001&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
   </tr>
 </table>
